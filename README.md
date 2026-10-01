@@ -1,2 +1,1 @@
-# tictactoe_class-DOWNLOAD-THIS-
-крестики нолики, но с классами
+tic-tac-toe with class
